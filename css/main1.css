@@ -1,0 +1,20 @@
+
+
+.col-4{
+    background-color: crimson;
+    height: 200px;
+    padding: 50px;
+    margin: 20px;
+}
+.card{
+    color: crimson;
+    height: 100%;
+}
+
+.col-12 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
